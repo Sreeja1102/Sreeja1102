@@ -5,7 +5,7 @@
 ---
 
 ✨ **Welcome to my digital space!** ✨  
-I’m a passionate **Machine Learning Engineer** and **AI Architect** who transforms data into intelligent systems. Whether it's predicting your next career move, creating personalized learning paths, or revolutionizing healthcare with AI — I’m here to make the impossible, possible. 💡
+I’m a passionate **Machine Learning Engineer** and **AI Architect** who transforms data into intelligent systems. Whether it's predicting your next career move, creating personalized learning paths, or revolutionizing healthcare with AI. 💡
 
 🔧 **What I do best:**
 - Building **personalized recommendation engines** that make data-driven decisions.  
